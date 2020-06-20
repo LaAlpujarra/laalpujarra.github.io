@@ -926,3 +926,26 @@ section.lazy-placeholder:after {
 .cid-s2qzrz0D1R .team-item .item-caption {
   background: #efefef;
 }
+.cid-s2qALxO1CZ {
+  background: #ffffff;
+}
+.cid-s2qALxO1CZ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s2qALxO1CZ .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s2qALxO1CZ figcaption {
+  position: relative;
+}
+.cid-s2qALxO1CZ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s2qALxO1CZ .image-block {
+    width: 100% !important;
+  }
+}
