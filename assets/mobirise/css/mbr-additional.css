@@ -773,3 +773,32 @@ section.lazy-placeholder:after {
 .cid-s2qrnnPYJb .team-item .item-caption {
   background: #efefef;
 }
+.cid-s2qwVtfkpv {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s2qwVtfkpv .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s2qx2SrUtV {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-s2qx2SrUtV .image-block {
+  margin: auto;
+}
+.cid-s2qx2SrUtV figcaption {
+  position: relative;
+}
+.cid-s2qx2SrUtV figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s2qx2SrUtV .image-block {
+    width: 100% !important;
+  }
+}
