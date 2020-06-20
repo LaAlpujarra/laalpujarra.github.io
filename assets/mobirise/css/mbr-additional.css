@@ -985,11 +985,14 @@ section.lazy-placeholder:after {
 }
 .cid-s2rJ7ZWaRl {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #232323;
 }
 .cid-s2rJ7ZWaRl .mbr-section-subtitle {
   color: #ff3366;
+}
+.cid-s2rJ7ZWaRl H2 {
+  color: #ffffff;
 }
 .cid-s2t6TnPt6A {
   padding-top: 75px;
