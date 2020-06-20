@@ -39,8 +39,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "¡Hola! Amigos de La Alpujarra",
+        "meta_descr": "La vida es de color en La Alpujarra",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
