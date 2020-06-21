@@ -1237,3 +1237,113 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s2yzQmV20y {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s2yzQmV20y .mbr-section-subtitle {
+  color: #ff3366;
+}
+.cid-s2yzQmV20y H2 {
+  color: #232323;
+}
+.cid-s2yzQndZ6q {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s2yzQndZ6q .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-s2yzQndZ6q H2 {
+  color: #010000;
+}
+.cid-s2yzQndZ6q .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-s2yzQnsRbf {
+  background: #efefef;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-s2yzQnsRbf .image-block {
+  margin: auto;
+}
+.cid-s2yzQnsRbf figcaption {
+  position: relative;
+}
+.cid-s2yzQnsRbf figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s2yzQnsRbf .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s2yzQs6hIq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s2yzQs6hIq .mbr-section-subtitle {
+  color: #ff3366;
+}
+.cid-s2yzQs6hIq .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s2yzQs6hIq .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s2yzQs6hIq .team-item .item-image img {
+  width: 100%;
+}
+.cid-s2yzQs6hIq .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s2yzQs6hIq .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s2yzQs6hIq .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s2yzQs6hIq .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s2yzQs6hIq .team-item .item-caption {
+  background: #efefef;
+}
+.cid-s2yzQsVL83 {
+  background: #ffffff;
+}
+.cid-s2yzQsVL83 .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-s2yzQsVL83 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s2yzQsVL83 figcaption {
+  position: relative;
+}
+.cid-s2yzQsVL83 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s2yzQsVL83 .image-block {
+    width: 100% !important;
+  }
+}
